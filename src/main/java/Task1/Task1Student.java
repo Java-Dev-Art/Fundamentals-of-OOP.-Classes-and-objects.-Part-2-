@@ -2,13 +2,13 @@ package Task1;
 
 public class Task1Student {
     private String sureName;
-    private String lastName;
+    private String firstName;
     private double avg;
     private int groupID;
 
-    public Task1Student(String sureName, String lastName, double avg, int groupID) {
+    public Task1Student(String sureName, String firstName, double avg, int groupID) {
         this.sureName = sureName;
-        this.lastName = lastName;
+        this.firstName = firstName;
         this.avg = avg;
         this.groupID = groupID;
     }
@@ -21,12 +21,12 @@ public class Task1Student {
         this.sureName = sureName;
     }
 
-    public String getLastName() {
-        return lastName;
+    public String getFirstName() {
+        return firstName;
     }
 
-    public void setLastName(String lastName) {
-        this.lastName = lastName;
+    public void setFirstName(String firstName) {
+        this.firstName = firstName;
     }
 
     public double getAvg() {
