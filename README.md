@@ -65,3 +65,25 @@ ___
 3. список книг, выпущенных после данного года.
 >Поместите решенную задачу в открытый репозиторий Git
 ____
+># Task 5. Create a class aggregating an array of type Airline (Checking the task by a mentor)
+
+## Solve the task:
+### Create the Airline class, the specification of which is given below. Define constructors, set and get methods, and the toString() method. Create a second class aggregating an array of type Airline, with suitable constructors and methods. Set data selection criteria and output this data to the console.
+#### **Airline: destination, flight number, aircraft type, departure time, days of the week.**
+
+#### Find and output:
+1. list of flights for a given destination;
+2. list of flights for a given day of the week;
+3. list of flights for a given day of the week, the departure time for which is longer than the specified one.
+>Place the solved task in an open Git repository.
+____
+># Задача 5. Создайте класс, объединяющий массив типов Авиакомпания (проверка задачи наставником)
+
+## Решите задачу:
+### Создайте класс авиакомпании, спецификация которого приведена ниже. Определите конструкторы, установите и получите методы, а также метод toString(). Создайте второй класс, объединяющий массив типов Авиакомпания с подходящими конструкторами и методами. Установите критерии выбора данных и выведите эти данные на консоль.
+#### **Авиакомпания: пункт назначения, номер рейса, тип воздушного судна, время вылета, дни недели.**
+#### Поиск и вывод: 
+1. список рейсов для данного пункта назначения;
+2. список рейсов на определенный день недели;
+3. список рейсов на определенный день недели, время вылета на который больше указанного.
+>Поместите решенную задачу в открытый репозиторий Git.
