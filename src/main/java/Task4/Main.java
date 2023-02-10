@@ -30,7 +30,8 @@ public class Main {
         Print printBook = new Print(book4);
         printBook.printBook();
 
-        System.out.println(library.findOfAuthor(author3));
+        System.out.println(library.findOfAuthor(author3
+        ));
 
     }
 }
